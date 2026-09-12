@@ -1,9 +1,3 @@
----
-type: study-note
-subject: 03-Nexora-AI-and-Features
-category: devops
-status: active
----
 
 
 ---
