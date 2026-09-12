@@ -1,10 +1,3 @@
----
-type: study-note
-subject: 02-Nexora-Architecture-and-Components
-category: devops
-status: active
----
-
 
 ---
 
