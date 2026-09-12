@@ -1,9 +1,4 @@
----
-type: study-note
-subject: 06-Nexora-Planning-and-Future
-category: devops
-status: active
----
+
 
 
 ---
