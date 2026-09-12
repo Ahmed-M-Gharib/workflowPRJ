@@ -1,7 +1,7 @@
 ---
-type: study-note
+
 subject: 05-Nexora-Data-API-and-TechStack
-category: devops
+
 status: active
 ---
 
