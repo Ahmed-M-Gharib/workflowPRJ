@@ -1,9 +1,3 @@
----
-type: study-note
-subject: 01-Nexora-Project-Overview-and-Requirements
-category: devops
-status: active
----
 
 
 ---
